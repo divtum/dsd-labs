@@ -6,9 +6,9 @@ Design and simulate half adder and half subtractor circuits using Verilog HDL.
 
 ## Files
 
-- `ha.v` — Half adder implementation.
-- `hs.v` — Half subtractor implementation.
-- `ha_hs_tb.v` — Testbench for verification.
+- `half_add.v` — Half adder implementation.
+- `half_sub.v` — Half subtractor implementation.
+- `half_add_sub_tb.v` — Testbench for verification.
 
 ## Concepts Covered
 
