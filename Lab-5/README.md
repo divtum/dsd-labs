@@ -90,10 +90,11 @@ Lab-5/
 ├── tb_decoder.v
 ├── tb_encoder.v
 └── Images/
-    ├── Decoder Schematic.png
-    ├── Decoder waveform_.png
-    ├── encoder schematic.png
-    └── encoder waveform.png
+    ├── Decoder_Schematic.png
+    ├── Decoder_waveform_.png
+    ├── Decoder_waveform.png
+    ├── encoder_schematic.png
+    └── encoder_waveform.png
 ```
 
 ## Result
