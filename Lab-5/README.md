@@ -34,7 +34,7 @@ A **3:8 Decoder** is a combinational logic circuit that converts a 3-bit binary 
 
 ### Decoder Simulation Waveform
 
-![3:8 Decoder Waveform](./Images/Decoder\waveform_.png)
+![3:8 Decoder Waveform](./Images/Decoder_waveform_.png)
 
 ---
 
@@ -54,11 +54,11 @@ For valid operation, only one input line is assumed to be active at a time.
 
 ### Encoder Schematic
 
-![8:3 Encoder Schematic](./Images/encoder%20schematic.png)
+![8:3 Encoder Schematic](./Images/encoder_schematic.png)
 
 ### Encoder Simulation Waveform
 
-![8:3 Encoder Waveform](./Images/encoder%20waveform.png)
+![8:3 Encoder Waveform](./Images/encoder_waveform.png)
 
 ---
 
