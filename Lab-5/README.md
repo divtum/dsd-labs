@@ -30,7 +30,7 @@ A **3:8 Decoder** is a combinational logic circuit that converts a 3-bit binary 
 
 ### Decoder Schematic
 
-![3:8 Decoder Schematic](./Images/Decoder\Schematic.png)
+![3:8 Decoder Schematic](./Images/Decoder_Schematic.png)
 
 ### Decoder Simulation Waveform
 
