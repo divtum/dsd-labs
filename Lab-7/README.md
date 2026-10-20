@@ -19,11 +19,11 @@ A comparator is a combinational logic circuit that compares two binary inputs an
 
 **Circuit Schematic:**
 
-![Comparator Schematic](<.Images/comparator schematic.png>)
+![Comparator Schematic](<./Images/comparator schematic.png>)
 
 **Simulation Waveform:**
 
-![Comparator Waveform](<.Images/comparator waveform.png>)
+![Comparator Waveform](<./Images/comparator waveform.png>)
 
 ### 2. Ripple Carry Adder (RCA)
 
@@ -35,11 +35,11 @@ A Ripple Carry Adder is a combinational circuit used to add two binary numbers. 
 
 **Circuit Schematic:**
 
-![Ripple Carry Adder Schematic](<.Images/rca schematic.png>)
+![Ripple Carry Adder Schematic](<./Images/rca schematic.png>)
 
 **Simulation Waveform:**
 
-![Ripple Carry Adder Waveform](<.Images/rca waveform.png>)
+![Ripple Carry Adder Waveform](<./Images/rca waveform.png>)
 
 ## Simulation and Verification
 
